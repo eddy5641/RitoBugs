@@ -41,16 +41,16 @@ This is a list of bugs that I know about for League of Legends.  There are a few
 Riot's client is fucked. The game is actually quite robust, but the client devs need less spagetti to work with. IMO, they should do another rewrite of the client; however, modernize/finalize the API. The API currently for the client looks really good, but has a few bugs that need to be ironed out. The rendering of the client is trash. There are also server-side bugs that riot REALLY SHOULD FIX.
 
 # Tools
-Obsidian
-FinalesFunkeln
-Fantome
-Burp Proxy w Proxifier
-Ghidra
-IDA Pro
+- Obsidian
+- FinalesFunkeln
+- Fantome
+- Burp Proxy w Proxifier
+- Ghidra
+- IDA Pro
 
-Riot UnpackMan
-FuckOffSSL
-XMPP-MitM
-rDBugger
-SandFire
-FastAppStringScan
+- Riot UnpackMan
+- FuckOffSSL
+- XMPP-MitM
+- rDBugger
+- SandFire
+- FastAppStringScan
