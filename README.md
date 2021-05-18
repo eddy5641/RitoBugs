@@ -1,6 +1,9 @@
 # RitoBugs
 This is a list of bugs that I know about for League of Legends.  There are a few that may no longer work; however, Riot tends to patch bugs that get exploited by the community. 
 
+### Note
+I do not not how to exploit all of these bugs. I have just recieved proof that they exist.
+
 # Bug list
 ## Client Bugs
 #### Working
@@ -47,7 +50,6 @@ Riot's client is fucked. The game is actually quite robust, but the client devs 
 - Burp Proxy w Proxifier
 - Ghidra
 - IDA Pro
-
 - Riot UnpackMan
 - FuckOffSSL
 - XMPP-MitM
