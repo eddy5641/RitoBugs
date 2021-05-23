@@ -13,9 +13,9 @@ I do not not how to exploit all of these bugs. I have just recieved proof that t
 - Loot dupe
 - Chat restriction speed-run
 - Game dodge w/o queue restriction
+- Ban exploit (Perm-ban people)
 
 #### May work (untested)
-- Anti-ban
 - Client crash exploit
 - View enemy champions in champ select
 - Ban picked champions
@@ -25,6 +25,7 @@ I do not not how to exploit all of these bugs. I have just recieved proof that t
 - Login exploit (login as others)
 - Any champion/Any skin
 - View enemy team in queue pop
+- Anti-ban exploit
 
 ## Gameclient Bugs
 #### Working
