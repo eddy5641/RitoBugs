@@ -31,9 +31,13 @@ I do not not how to exploit all of these bugs. I have just recieved proof that t
 #### Working
 - Map hack (disable FoW)
 - Instant charge (spells with different states)
+- BetterEvade (shrinks the effective hit box of spells)
 
-### May work (untested)
-- BetterEvade (reduces the hit rate of enemy spells)
+### May work (untested - theoretically may be possible)
+- XP Hack 
+- BotRK 0 CD
+- Game Crash
+- Anti-Lose Surrender
 
 #### Patched
 - Play as enemy
