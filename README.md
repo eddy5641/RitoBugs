@@ -43,6 +43,11 @@ I do not not how to exploit all of these bugs. I have just recieved proof that t
 - Play as enemy
 - AFK fountain buff anywhere
 
+## Valorant Bugs
+
+#### Patched
+Vanguard Exploit (Entrypoint, Disable Vanguard)
+
 # Afterthoughts
 ![sex-ploits](https://github.com/vperpl/sex-ploits) is another repo that is full of exploits (some that I know, some that I do not). I recommend you also take a peek there too.
 
