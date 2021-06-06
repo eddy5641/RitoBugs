@@ -30,11 +30,11 @@ I do not not how to exploit all of these bugs. I have just recieved proof that t
 ## Gameclient Bugs
 #### Working
 - Map hack (disable FoW)
+- XP Hack (Get XP that you normally would not get)
 - Instant charge (spells with different states)
 - BetterEvade (shrinks the effective hit box of spells)
 
 ### May work (untested - theoretically may be possible)
-- XP Hack 
 - BotRK 0 CD
 - Game Crash
 - Anti-Lose Surrender
