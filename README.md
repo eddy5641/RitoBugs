@@ -38,6 +38,7 @@ I do not not how to exploit all of these bugs. I have just recieved proof that t
 - BotRK 0 CD
 - Game Crash
 - Anti-Lose Surrender
+- Instant Win (Surrender unanimous)
 
 #### Patched
 - Play as enemy
